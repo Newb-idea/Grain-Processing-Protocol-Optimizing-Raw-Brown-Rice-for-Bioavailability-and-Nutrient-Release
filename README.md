@@ -47,3 +47,10 @@ Purpose: Completes external "pre-digestion" (enzymatic breakdown of starches and
 Disclaimer: This is an experimental, self-directed nutritional optimization protocol for informational purposes.
 
 I’d love to hear thoughts from the community on this mechanical + biochemical approach to anti-nutrient breakdown and raw grain bioavailability.
+
+
+"If anyone is interested, feel free to feed this protocol into your own AI models to analyze, simulate, or stress-test the chemistry and physics behind it. But more importantly—give it a try in the real world!"
+
+"Also, the exact same logic (acid/mineral activation + freeze-thaw cell fracturing + high-shear) should theoretically work for other raw grains, seeds, or pseudo-grains (like oats, buckwheat, or quinoa). If anyone tests this framework on other grains, I’d love to hear your results!"
+
+
